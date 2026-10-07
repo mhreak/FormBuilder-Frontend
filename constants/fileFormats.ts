@@ -1,0 +1,17 @@
+export const fileFormats = [
+  { label: "PDF", value: ".pdf" },
+  { label: "JPG", value: ".jpg" },
+  { label: "PNG", value: ".png" },
+  { label: "WEBP", value: ".webp" },
+  { label: "GIF", value: ".gif" },
+  { label: "SVG", value: ".svg" },
+  { label: "DOC", value: ".doc" },
+  { label: "DOCX", value: ".docx" },
+  { label: "XLS", value: ".xls" },
+  { label: "XLSX", value: ".xlsx" },
+  { label: "PPT", value: ".ppt" },
+  { label: "PPTX", value: ".pptx" },
+  { label: "TXT", value: ".txt" },
+  { label: "CSV", value: ".csv" },
+  { label: "ZIP", value: ".zip" },
+];
